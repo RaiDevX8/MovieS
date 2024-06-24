@@ -1,3 +1,6 @@
+## Note on TMDB API Access
+
+Please note that access to The Movie Database (TMDB) API may be restricted in certain regions, such as India. If you encounter issues accessing movie data or images, consider using a VPN service to bypass these restrictions.
 Visit the live site: [Charan Movies Website](https://charanmovies.netlify.app/)
 
 ## Overview
