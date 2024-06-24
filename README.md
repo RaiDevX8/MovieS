@@ -1,1 +1,1 @@
-<img src="mockup.jpeg" alt="Mockup Screenshot" width="600">
+<img src="mockup.jpeg" alt="Mockup Screenshot" width="300">
