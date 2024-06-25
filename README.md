@@ -1,7 +1,7 @@
 ## Note on TMDB API Access
 
 Please note that access to The Movie Database (TMDB) API may be restricted in certain regions, such as India. If you encounter issues accessing movie data or images, consider using a VPN service to bypass these restrictions.
-Visit the live site: [Charan Movies Website](https://charanmovies.netlify.app/)
+Visit the live site: [ Movies Website](https://charanmovies.netlify.app/)
 
 ## Overview
 
@@ -13,12 +13,7 @@ This project showcases a movie website built using React and Redux technologies.
 
 Above is a screenshot of the Charan Movies website homepage.
 
-## Features
 
-- Browse and search for movies
-- View movie details including posters, ratings, and descriptions
-- Watch trailers of selected movies
-- Explore different movie genres
 
 ## Technologies Used
 
